@@ -1,4 +1,4 @@
-### Hi there my name is Michel Murabito 👋
+### Hi there! My name is Michel Murabito 👋
 
 </p>
 <h3 align="center">Find me on</h3>
