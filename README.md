@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there my name is Michel Murabito 👋
 
-<!--
-**akelity/akelity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<h3 align="center">Find me on</h3>
+<p align="center">
+  <a href="https://github.com/akelity" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://it.linkedin.com/in/mich-murabito" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" />
+  </a>
+  <a href="https://medium.com/@clayton-hamilton" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/michelmurabito" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" />
+  </a> 
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
