@@ -131,7 +131,7 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
     <li><b>GDG Milano</b> - September 2019 Milan, Italy
         <br/>Talk: Angular Components Like a Jedi!
     </li>
-    <li><b>GDG Bari</b> - August 2019 Gallipoli, Italy
+    <li><b>DevFest Levante</b> - August 2019 Gallipoli, Italy
         <br/>Talk: Angular Components Like a Jedi!
     </li>
     <li><b>Campus Party CPIT3</b> - July 2019 Milan, Italy
@@ -170,6 +170,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
     </li>
     <li><b>DevFest Milano 2018</b> - October 2018 Milan, Italy
         <br/>Talk: La Morte Nera, e se fosse prototipizzata con Firebase e React?
+    </li>
+    <li><b>DevFest Levante</b> - August 2018 Torre dell'Orso, Italy
+        <br/>Workshop: Firebase from zero to hero!
     </li>
     <li><b>Campus Party CPIT2</b> - July 2018 Milan, Italy
         <br/>Talk: Developer a Jedi Path
@@ -228,6 +231,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
     </li>
     <li><b>DevFest Catania</b> - October 2015 Catania, Italy
         <br/>Talk: Costruire applicazioni Real Time con Polymer e Firebase
+    </li>
+    <li><b>GDG Bari</b> - May 2015 Bari, Italy
+        <br/>Workshop: Codelab AndroidTV
     </li>
     <li><b>DevFest Mediterranean</b> - October 2014 Sant'Agata di Militello, Italy
         <br/>Talk: Build WebApp with Polymer
