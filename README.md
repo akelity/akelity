@@ -36,188 +36,188 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 
 <h3 align="center">Events</h3>
 <ul>
-    <li>DevFest Pescara 2022 - November 2022 Pescara, Italy
-        <br/>Talk: Talk: kube-green: aumenta la sostenibilità del software cloud riducendo l'imponta di CO2
+    <li><b>DevFest Pescara 2022</b> - November 2022 Pescara, Italy
+        <br/>Talk: kube-green: aumenta la sostenibilità del software cloud riducendo l'imponta di CO2
     </li>
-    <li>DevFest Triveneto - October 2022 Venice, Italy
+    <li><b>DevFest Triveneto</b> - October 2022 Venice, Italy
         <br/>Talk: Rönd: una piattaforma distribuita e open source per le tue policy di sicurezza
     </li>
-    <li>Codemotion Milan 2022 - October 2022 Milan, Italy
+    <li><b>Codemotion Milan 2022</b> - October 2022 Milan, Italy
         <br/>DEVulgari eloquentia: tra content creation e personal branding
     </li>
-    <li>CloudConf 2022 - October 2022 Turin, Italy
+    <li><b>CloudConf 2022</b> - October 2022 Turin, Italy
         <br/>Talk: Rönd: una piattaforma distribuita e open source per le tue policy di sicurezza
     </li>
-    <li>Linux Day Messina - October 2022 Messina, Italy
+    <li><b>Linux Day Messina</b> - October 2022 Messina, Italy
         <br/>Talk: Talk: Rönd: una piattaforma distribuita e open source per le tue policy di sicurezza
     </li>
-    <li>GrUSP Online - October 2022
+    <li><b>GrUSP</b> - October 2022 Online
         <br/>Talk: micro-lc: come orchestrare Micro-frontend
     </li>
-    <li>Pointer Podcast - October 2022
+    <li><b>Pointer Podcast</b> - October 2022 Online
         <br/>Interview: Vita da sviluppatore
     </li>
-    <li>COME TO CODE - October 2022 Pignola, Italy
+    <li><b>COME TO CODE</b> - October 2022 Pignola, Italy
         <br/>Talk: Orchestrare Micro-frontend con micro-lc
     </li>
-    <li>Codemotion Workshop Fest - May 2022
+    <li><b>Codemotion Workshop Fest</b> - May 2022 Online
         <br/>Workshop: Orchestrare Micro-frontend con micro-lc
     </li>
-    <li>Tech Italia Meetup - April 2022 Florence, Italy
+    <li><b>Tech Italia Meetup</b> - April 2022 Florence, Italy
         <br/>Talk: Orchestrare Micro-frontend con micro-lc
     </li>
-    <li>Tutored - March 2022 Online
+    <li><b>Tutored</b> - March 2022 Online
         <br/>Talk: Il lavoro dei tuoi sogni in ambito STEM? Guida pratica su come trovarlo, ottenerlo e mantenerlo
     </li>
-    <li>DevFest XMAS - December 2021 Turin, Italy
+    <li><b>DevFest XMAS</b> - December 2021 Turin, Italy
         <br/>Talk: Orchestrare Micro-frontend con micro-lc
     </li>
-    <li>API Date - November 2021 Online
+    <li><b>API Date</b> - November 2021 Online
         <br/>Talk: Digital Integration Hub (DIH) come strategia vincente per i problemi di oggi e di domani
     </li>
-    <li>DevCast by Codemotion - November 2021 Online
+    <li><b>DevCast by Codemotion</b> - November 2021 Online
         <br/>Talk: Orchestrare Micro-frontend con micro-lc
     </li>
-    <li>DianaCodes - June 2021 Online
+    <li><b>DianaCodes</b> - June 2021 Online
         <br/>Interview: Vita da Developer
     </li>
-    <li>Crafted Software - March 2021 Online
+    <li><b>Crafted Software</b> - March 2021 Online
         <br/>Talk: Realtime geo tracking con Typescript e Firebase
     </li>
-    <li>GitBar - November 2020 Online
+    <li><b>GitBar</b> - November 2020 Online
         <br/>Interview: Programmazione, community e mentoring
     </li>
-    <li>CloudConf - November 2020 Online
+    <li><b>CloudConf</b> - November 2020 Online
         <br/>Talk: Firebase: a serverless story
     </li>
-    <li>DevFest Italia 2020 - October 2020 Online
+    <li><b>DevFest Italia 2020</b> - October 2020 Online
         <br/>Talk: Firebase: a serverless story
     </li>
-    <li>PWAConf 2020 - July 2020 Online
+    <li><b>PWAConf 2020</b> - July 2020 Online
         <br/>Talk: Use Firebase in Progressive Web Apps
     </li>
-    <li>GDG DevParty Together - May 2020 Online
+    <li><b>GDG DevParty Together</b> - May 2020 Online
         <br/>Talk: Algoritmi e Software Etici
     </li>
-    <li>MUG - Marca User Group - January 2020 Treviso, Italy
+    <li><b>MUG - Marca User Group</b> - January 2020 Treviso, Italy
         <br/>Talk: Firebase, a Serverless story!
     </li>
-    <li>GDG Cloud Milano - December 2019 Milan, Italy
+    <li><b>GDG Cloud Milano</b> - December 2019 Milan, Italy
         <br/>Talk: Firebase Functions - Il lato chiaro e scuro della Forza
     </li>
-    <li>GDG DevFest Urbino 2019 - November 2019 Urbino, Italy
+    <li><b>GDG DevFest Urbino 2019</b> - November 2019 Urbino, Italy
         <br/>Talk 1: Firebase functions: il lato oscuro ed il lato chiaro della Forza
         <br/>Talk 2: Superheroes & Superpowers (per sviluppatori Angular)!
     </li>
-    <li>DevFest Veneto 2019 - November 2019 Venice, Italy
+    <li><b>DevFest Veneto 2019</b> - November 2019 Venice, Italy
         <br/>Talk 1: Firebase Functions - Il lato chiaro della Forza
         <br/>Talk 2: 	Manage Teams, a space adventure!
     </li>
-    <li>GDG DevFest Pescara 2019 - November 2019 Pescara, Italy
+    <li><b>GDG DevFest Pescara 2019</b> - November 2019 Pescara, Italy
         <br/>Talk 1: Firebase Functions - Il lato chiaro della Forza
         <br/>Talk 2: Firebase Functions - Il lato oscuro della Forza
         <br/>Talk 3: Una lista di cose che potremmo NON sapere sulle community
         <br/>Talk 4: Manage Teams, a space adventure!
     </li>
-    <li>DevFest MED - October 2019 Sant'Agata di Militello, Italy
+    <li><b>DevFest MED</b> - October 2019 Sant'Agata di Militello, Italy
         <br/>Talk: Firebase Functions - Il lato chiaro della Forza
     </li>
-    <li>FullStackConf - October 2019 Turin, Italy
+    <li><b>FullStackConf</b> - October 2019 Turin, Italy
         <br/>Talk: Firebase: a serverless story
     </li>
-    <li>GDG Milano - September 2019 Milan, Italy
+    <li><b>GDG Milano</b> - September 2019 Milan, Italy
         <br/>Talk: Angular Components Like a Jedi!
     </li>
-    <li>GDG Bari - August 2019 Gallipoli, Italy
+    <li><b>GDG Bari</b> - August 2019 Gallipoli, Italy
         <br/>Talk: Angular Components Like a Jedi!
     </li>
-    <li>Campus Party CPIT3 - July 2019 Milan, Italy
+    <li><b>Campus Party CPIT3</b> - July 2019 Milan, Italy
         <br/>Talk: Tech Team like a Jedi
     </li>
-    <li>Angular Rome - June 2019 Rome, Italy
+    <li><b>Angular Rome</b> - June 2019 Rome, Italy
         <br/>Talk: Angular Components like a Jedi
     </li>
-    <li>GDG Torino - May 2019 Turin, Italy
+    <li><b>GDG Torino</b> - May 2019 Turin, Italy
         <br/>Talk: L’importanza della community per un dev
     </li>
-    <li>DevFest Pisa 2019 - April 2019 Pisa, Italy
+    <li><b>DevFest Pisa 2019</b> - April 2019 Pisa, Italy
         <br/>Talk 1: Ecco perché gli sviluppatori sono dei supereroi
         <br/>Talk 2: Evolution of Javascript
     </li>
-    <li>DevFest Emilia Romagna 2018 - December 2018 Reggio nell'Emilia, Italy
+    <li><b>DevFest Emilia Romagna 2018</b> - December 2018 Reggio nell'Emilia, Italy
         <br/>Talk: La Morte Nera, e se fosse prototipizzata con Firebase e React?
     </li>
-    <li>DevFest Veneto 2018 - November 2018 Venice, Italy
+    <li><b>DevFest Veneto 2018</b> - November 2018 Venice, Italy
         <br/>Talk: La Morte Nera, e se fosse prototipizzata con Firebase e React?
     </li>
-    <li>Startup Weekend Catania 2018 - November 2018 Catania, Italy
+    <li><b>Startup Weekend Catania 2018</b> - November 2018 Catania, Italy
         <br/>Mentor
     </li>
-    <li>DevFest Trento 2018 - November 2018 Trento, Italy
+    <li><b>DevFest Trento 2018</b> - November 2018 Trento, Italy
         <br/>Talk: La rotta di Kessel: come farla in meno di 12 Parsec con Firebase e React
     </li>
-    <li>Firebase Night Torino - October 2018 Turin, Italy
+    <li><b>Firebase Night Torino</b> - October 2018 Turin, Italy
         <br/>Talk: La Rotta di Kessel' come farla in meno di 12 Parsec con Firebase!
     </li>
-    <li>Frontender Verona - October 2018 Verona, Italy
+    <li><b>Frontender Verona</b> - October 2018 Verona, Italy
         <br/>Talk: Build Modern (And Fast) Progressive WebApps
     </li>
-    <li>SMAU Milan 2018 - October 2018 Milan, Italy
+    <li><b>SMAU Milan 2018</b> - October 2018 Milan, Italy
         <br/>Talk: Sviluppo Web & Mobile nel 2018
     </li>
-    <li>DevFest Milano 2018 - October 2018 Milan, Italy
+    <li><b>DevFest Milano 2018</b> - October 2018 Milan, Italy
         <br/>Talk: La Morte Nera, e se fosse prototipizzata con Firebase e React?
     </li>
-    <li>Campus Party CPIT2 - July 2018 Milan, Italy
+    <li><b>Campus Party CPIT2</b> - July 2018 Milan, Italy
         <br/>Talk: Developer a Jedi Path
     </li>
-    <li>Angular Day 2018 - June 2018 Verona, Italy
+    <li><b>Angular Day 2018</b> - June 2018 Verona, Italy
         <br/>Talk: The Jedi Path to Angular Universal
     </li>
-    <li>TechDay Messina 2018 - May 2018 Messina, Italy
+    <li><b>TechDay Messina 2018</b> - May 2018 Messina, Italy
         <br/>Talk: Build Modern (And Fast) WebApps
     </li>
-    <li>University of Padova - March 2018 Padova, Italy
+    <li><b>University of Padova</b> - March 2018 Padova, Italy
         <br/>Talk: Essere sviluppatori digital oggi!
     </li>
-    <li>DevFest Pisa 0.1 - March 2018 Pisa, Italy
+    <li><b>DevFest Pisa 0.1</b> - March 2018 Pisa, Italy
         <br/>Talk: Run Fast with Modern JavaScript
         <br/>Workshop: Make your WebApp fast, light and modern (Codelab)
     </li>
-    <li>Sindacato Networkers February 2018 Online
+    <li><b>Sindacato Networkers</b> - February 2018 Online
         <br/>Interview
     </li>
-    <li>GDG Milano - January 2018 Milan, Italy
+    <li><b>GDG Milano</b> - January 2018 Milan, Italy
         <br/>Talk: Superheroes apps con Angular e Firebase
     </li>
-    <li>Angular Rome - January 2018 Rome, Italy
+    <li><b>Angular Rome</b> - January 2018 Rome, Italy
         <br/>Talk: Firebase per Applicazioni complesse in Angular
     </li>
-    <li>GDG Torino - December 2017 Turin, Italy
+    <li><b>GDG Torino</b> - December 2017 Turin, Italy
         <br/>Talk: JavaScript: from Zero to Jedi
     </li>
-    <li>GDG Pisa - December 2017 Pisa, Italy
+    <li><b>GDG Pisa</b> - December 2017 Pisa, Italy
         <br/>Talk: JavaScript from Zero to Jedi
     </li>
-    <li>DevFest Veneto 2017 - December 2017 Venice, Italy
+    <li><b>DevFest Veneto 2017</b> - December 2017 Venice, Italy
         <br/>Talk: Become an JavaScript superhero Dev!
     </li>
-    <li>DevFest Med 2017 (Part 2) - November 2017 Catania, Italy
+    <li><b>DevFest Med 2017 (Part 2)</b> - November 2017 Catania, Italy
         <br/>Talk: Become an JavaScript superhero Dev!
     </li>
-    <li>Startup Weekend Catania - October 2017 Catania, Italy
+    <li><b>Startup Weekend Catania</b> - October 2017 Catania, Italy
         <br/>Mentor
     </li>
-    <li>DevFest Med 2017 (Part 1) - October 2017 Sant'Agata di Militello, Italy
+    <li><b>DevFest Med 2017 (Part 1)</b> - October 2017 Sant'Agata di Militello, Italy
         <br/>Talk: Build with Bricks a gentle introduction to web component
     </li>
-    <li>DevFest Bari 2017 - October 2017 Bari, Italy
+    <li><b>DevFest Bari 2017</b> - October 2017 Bari, Italy
         <br/>Talk: Become an JavaScript superhero Dev!
     </li>
-    <li>Angular Day 2017 - June 2017 Verona, Italy
+    <li><b>Angular Day 2017</b> - June 2017 Verona, Italy
         <br/>Talk: Superheroes apps con Angular e Firebase
     </li>
-    <li>GDG Milano - April 2017 Milan, Italy
+    <li><b>GDG Milano</b> - April 2017 Milan, Italy
         <br/>Talk: Apps Script Superheroes 1.0
     </li>
 </ul>
