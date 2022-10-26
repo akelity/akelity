@@ -36,8 +36,8 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 
 <h3 align="center">Events</h3>
 <ul>
-    <li>DevFest Pescara 2022 - November 2022 Pescara, Italy <br />
-        <br/>Talk:
+    <li>DevFest Pescara 2022 - November 2022 Pescara, Italy
+        <br/>Talk: Talk: kube-green: aumenta la sostenibilità del software cloud riducendo l'imponta di CO2
     </li>
     <li>DevFest Triveneto - October 2022 Venice, Italy
         <br/>Talk: Rönd: una piattaforma distribuita e open source per le tue policy di sicurezza
@@ -126,6 +126,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
         <br/>Talk: Firebase: a serverless story
     </li>
     <li>GDG Milano - September 2019 Milan, Italy
+        <br/>Talk: Angular Components Like a Jedi!
+    </li>
+    <li>GDG Bari - August 2019 Gallipoli, Italy
         <br/>Talk: Angular Components Like a Jedi!
     </li>
     <li>Campus Party CPIT3 - July 2019 Milan, Italy
