@@ -39,6 +39,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
     <li><b>DevFest Pescara 2022</b> - November 2022 Pescara, Italy
         <br/>Talk: kube-green: aumenta la sostenibilità del software cloud riducendo l'imponta di CO2
     </li>
+    <li><b>STEM Day 2022</b> - October 2022 Milan, Italy
+        <br/>Workshop: Creiamo una APP di realtime geo tracking!
+    </li>
     <li><b>DevFest Triveneto</b> - October 2022 Venice, Italy
         <br/>Talk: Rönd: una piattaforma distribuita e open source per le tue policy di sicurezza
     </li>
@@ -219,6 +222,21 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
     </li>
     <li><b>GDG Milano</b> - April 2017 Milan, Italy
         <br/>Talk: Apps Script Superheroes 1.0
+    </li>
+    <li><b>Codemotion Milan</b> - November 2015 Milan, Italy
+        <br/>Talk: Costruire applicazioni Real Time con Polymer e Firebase
+    </li>
+    <li><b>DevFest Catania</b> - October 2015 Catania, Italy
+        <br/>Talk: Costruire applicazioni Real Time con Polymer e Firebase
+    </li>
+    <li><b>DevFest Mediterranean</b> - October 2014 Sant'Agata di Militello, Italy
+        <br/>Talk: Build WebApp with Polymer
+    </li>
+    <li><b>GDG Nebrodi & Università Messina</b> - September 2014 Messina, Italy
+        <br/>Codelab: Intro to AngularJS & Codelab
+    </li>
+  <li><b>Android App Festival</b> - May 2014 Santo Stefano di Camastra, Italy
+        <br/>Talk: Costruire Android App tramite AngolarJs
     </li>
 </ul>
 
