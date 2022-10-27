@@ -242,7 +242,7 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
         <br/>Codelab: Intro to AngularJS & Codelab
     </li>
   <li><b>Android App Festival</b> - May 2014 Santo Stefano di Camastra, Italy
-        <br/>Talk: Costruire Android App tramite AngolarJs
+        <br/>Talk: Costruire Android App tramite AngularJs
     </li>
 </ul>
 
