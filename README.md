@@ -33,9 +33,18 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
   </a> 
 </p>
 
+<h3 align="center">Blogpost</h3>
+<ul>
+    <li><b>AWS Partner Network (APN) Blog</b> - October 2022
+        <br/>Title: [Creating an Asynchronous Ingestion Pattern Following Mia-Platform Fast Data Architecture](https://aws.amazon.com/it/blogs/apn/creating-an-asynchronous-ingestion-pattern-following-mia-platform-fast-data-architecture/)
+    </li>
+</ul>
 
 <h3 align="center">Events</h3>
 <ul>
+    <li><b>KCD UK 2022</b> - November 2022 London, UK
+        <br/>Workshop: Open Source Security Enforcement over your APIs
+    </li>
     <li><b>DevFest Pescara 2022</b> - November 2022 Pescara, Italy
         <br/>Talk: kube-green: aumenta la sostenibilità del software cloud riducendo l'imponta di CO2
     </li>
