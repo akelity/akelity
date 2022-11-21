@@ -36,7 +36,7 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 <h3 align="center">Blogpost</h3>
 <ul>
     <li><b>AWS Partner Network (APN) Blog</b> - October 2022
-        <br/>Title: [Creating an Asynchronous Ingestion Pattern Following Mia-Platform Fast Data Architecture](https://aws.amazon.com/it/blogs/apn/creating-an-asynchronous-ingestion-pattern-following-mia-platform-fast-data-architecture/)
+        <br/> <a href="https://aws.amazon.com/it/blogs/apn/creating-an-asynchronous-ingestion-pattern-following-mia-platform-fast-data-architecture/" alt"Article AWS Partner Network (APN)">Creating an Asynchronous Ingestion Pattern Following Mia-Platform Fast Data Architecture]</a> (co-author)
     </li>
 </ul>
 
