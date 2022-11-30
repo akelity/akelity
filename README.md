@@ -40,7 +40,7 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
         <br/> 🇮🇹 <a href="https://blog.mia-platform.eu/it/la-rivoluzione-delle-internal-developer-platform" alt="La rivoluzione delle internal developer platform">La rivoluzione delle internal developer platform</a>
     </li>
     <li><b>AWS Partner Network (APN) Blog</b> - October 2022
-        <br/> <a href="https://aws.amazon.com/it/blogs/apn/creating-an-asynchronous-ingestion-pattern-following-mia-platform-fast-data-architecture/" alt"Article AWS Partner Network (APN)">Creating an Asynchronous Ingestion Pattern Following Mia-Platform Fast Data Architecture</a> (co-author)
+        <br/> 🇬🇧 <a href="https://aws.amazon.com/it/blogs/apn/creating-an-asynchronous-ingestion-pattern-following-mia-platform-fast-data-architecture/" alt"Article AWS Partner Network (APN)">Creating an Asynchronous Ingestion Pattern Following Mia-Platform Fast Data Architecture</a> (co-author)
     </li>
 </ul>
 
