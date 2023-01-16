@@ -264,4 +264,5 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 </ul>
 
 
-![Visitor Count](https://profile-counter.glitch.me/akelity/count.svg)
+Profile Count:
+![GitHub Views](https://komarev.com/ghpvc/?username=akelity)
