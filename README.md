@@ -263,6 +263,6 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
     </li>
 </ul>
 
-
-Profile Count:
-![GitHub Views](https://komarev.com/ghpvc/?username=akelity)
+<p align="center">
+  ![GitHub Views](https://komarev.com/ghpvc/?username=akelity)
+</p>
