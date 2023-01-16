@@ -35,6 +35,10 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 
 <h3 align="center">Blogpost</h3>
 <ul>
+    <li><b>Mia-Platform Blog</b> - December 2022
+        <br/> 🇬🇧 <a href="https://blog.mia-platform.eu/en/composable-architecture-all-the-flexibility-your-software-needs" alt="Composable Architecture: all the flexibility your software needs">Composable Architecture: all the flexibility your software needs</a>
+        <br/> 🇮🇹 <a href="https://blog.mia-platform.eu/it/composable-architecture-tutta-la-flessibilita-di-cui-hai-bisogno" alt="Composable Architecture: tutta la flessibilità di cui hai bisogno">Composable Architecture: tutta la flessibilità di cui hai bisogno</a>
+    </li>
     <li><b>Mia-Platform Blog</b> - November 2022
         <br/> 🇬🇧 <a href="https://blog.mia-platform.eu/en/the-internal-developer-platform-revolution" alt="The internal developer platform revolution">The internal developer platform revolution</a>
         <br/> 🇮🇹 <a href="https://blog.mia-platform.eu/it/la-rivoluzione-delle-internal-developer-platform" alt="La rivoluzione delle internal developer platform">La rivoluzione delle internal developer platform</a>
