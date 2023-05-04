@@ -35,10 +35,14 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 
 <h3 align="center">Blogpost</h3>
 <ul>
-    <li><b>DevOps Blog</b> - April 2022
+    <li><b>Mia-Platform Blog</b> - May 2023
+        <br/> 🇬🇧 <a href="https://blog.mia-platform.eu/en/developer-advocate-journal-kubecon-europe-2023" alt="A Developer Advocate's Journal: my adventure at KubeCon Europe 2023">A Developer Advocate's Journal: my adventure at KubeCon Europe 2023</a>
+        <br/> 🇮🇹 <a href="https://blog.mia-platform.eu/it/diario-di-bordo-kubecon-2023" alt="Diario di bordo di un Developer Advocate: la mia avventura a KubeCon">Diario di bordo di un Developer Advocate: la mia avventura a KubeCon</a>
+    </li>
+    <li><b>DevOps Blog</b> - April 2023
         <br/> 🇬🇧 <a href="https://devops.com/how-platform-engineering-makes-software-sustainable/" alt="How Platform Engineering Makes Software Sustainable">How Platform Engineering Makes Software Sustainable</a>
     </li>
-    <li><b>Mia-Platform Blog</b> - April 2022
+    <li><b>Mia-Platform Blog</b> - April 2023
         <br/> 🇬🇧 <a href="https://blog.mia-platform.eu/en/seven-core-components-internal-developer-platform" alt="7 core components of an Internal Developer Platform">7 core components of an Internal Developer Platform</a>
         <br/> 🇮🇹 <a href="https://blog.mia-platform.eu/it/7-componenti-essenziali-di-uninternal-developer-platform" alt="7 componenti essenziali di un'Internal Developer Platform">7 componenti essenziali di un'Internal Developer Platform</a>
     </li>
