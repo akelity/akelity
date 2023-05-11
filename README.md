@@ -33,8 +33,13 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
   </a> 
 </p>
 
+https://www.cncf.io/blog/2023/05/11/a-developer-advocates-journal-my-adventure-at-kubecon-europe-2023/
+
 <h3 align="center">Blogpost</h3>
 <ul>
+    <li><b>CNCF Blog</b> - May 2023
+        <br/> 🇬🇧 <a href="https://www.cncf.io/blog/2023/05/11/a-developer-advocates-journal-my-adventure-at-kubecon-europe-2023/" alt="A developer advocate’s journal: my adventure at KubeCon + CloudNativeCon Europe 2023">A developer advocate’s journal: my adventure at KubeCon + CloudNativeCon Europe 2023</a>
+    </li>
     <li><b>Mia-Platform Blog</b> - May 2023
         <br/> 🇬🇧 <a href="https://blog.mia-platform.eu/en/developer-advocate-journal-kubecon-europe-2023" alt="A Developer Advocate's Journal: my adventure at KubeCon Europe 2023">A Developer Advocate's Journal: my adventure at KubeCon Europe 2023</a>
         <br/> 🇮🇹 <a href="https://blog.mia-platform.eu/it/diario-di-bordo-kubecon-2023" alt="Diario di bordo di un Developer Advocate: la mia avventura a KubeCon">Diario di bordo di un Developer Advocate: la mia avventura a KubeCon</a>
