@@ -33,8 +33,6 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
   </a> 
 </p>
 
-https://www.cncf.io/blog/2023/05/11/a-developer-advocates-journal-my-adventure-at-kubecon-europe-2023/
-
 <h3 align="center">Blogpost</h3>
 <ul>
     <li><b>CNCF Blog</b> - May 2023
