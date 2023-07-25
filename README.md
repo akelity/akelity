@@ -68,6 +68,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 
 <h3 align="center">Events</h3>
 <ul>
+    <li><b>Pycon (IT) 2023</b> - May 2022 Florence, IT
+        <br/>Panel: Nessuno fa Continuous Delivery: dimostrami il contrario!
+    </li>
     <li><b>KCD UK 2022</b> - November 2022 London, UK
         <br/>Workshop: Open Source Security Enforcement over your APIs
     </li>
