@@ -35,6 +35,10 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 
 <h3 align="center">Blogpost</h3>
 <ul>
+    <li><b>Mia-Platform Blog</b> - July 2023
+        <br/> 🇬🇧 <a href="https://blog.mia-platform.eu/en/golden-paths-platform-engineering" alt="Pave Golden Paths with Platform Engineering">Pave Golden Paths with Platform Engineering</a>
+        <br/> 🇮🇹 <a href="https://blog.mia-platform.eu/it/golden-path-platform-engineering" alt="Tracciare golden path con il Platform Engineering">Tracciare golden path con il Platform Engineering</a>
+    </li>
     <li><b>CNCF Blog</b> - May 2023
         <br/> 🇬🇧 <a href="https://www.cncf.io/blog/2023/05/11/a-developer-advocates-journal-my-adventure-at-kubecon-europe-2023/" alt="A developer advocate’s journal: my adventure at KubeCon + CloudNativeCon Europe 2023">A developer advocate’s journal: my adventure at KubeCon + CloudNativeCon Europe 2023</a>
     </li>
