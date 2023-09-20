@@ -69,19 +69,19 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 <h3 align="center">Events</h3>
 <ul>
     <li><b>Dutch Kubernetes & Cloud-Native Meetup</b> - September 2023 Amsterdam, NL
-        <br/>How to stop Firefighting in DevOps Teams and improve Developer Experience?
+        <br/>Talk: How to stop Firefighting in DevOps Teams and improve Developer Experience?
     </li>
     <li><b>Cloud Native Podcast</b> - July 2023 Online
-        <br/>Decoding Platform Engineering: Build vs Buy Dilemma
+        <br/>Title: Decoding Platform Engineering: Build vs Buy Dilemma
     </li>
     <li><b>CloudConf Torino 2023</b> - May 2023 Turin, IT
-        <br/>Platform Engineering: L'Arte di Creare Ecosistemi Digitali
+        <br/>Talk: Platform Engineering: L'Arte di Creare Ecosistemi Digitali
     </li>
     <li><b>Pycon (IT) 2023</b> - May 2023 Florence, IT
         <br/>Panel: Nessuno fa Continuous Delivery: dimostrami il contrario!
     </li>
     <li><b>dotNET{podcast}</b> - February 2023 Online
-        <br/>A chat about Platform Engineering
+        <br/>Title: A chat about Platform Engineering
     </li>
     <li><b>KCD UK 2022</b> - November 2022 London, UK
         <br/>Workshop: Open Source Security Enforcement over your APIs
@@ -96,7 +96,7 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
         <br/>Talk: Rönd: una piattaforma distribuita e open source per le tue policy di sicurezza
     </li>
     <li><b>Codemotion Milan 2022</b> - October 2022 Milan, Italy
-        <br/>DEVulgari eloquentia: tra content creation e personal branding
+        <br/>Title: DEVulgari eloquentia: tra content creation e personal branding
     </li>
     <li><b>CloudConf 2022</b> - October 2022 Turin, Italy
         <br/>Talk: Rönd: una piattaforma distribuita e open source per le tue policy di sicurezza
