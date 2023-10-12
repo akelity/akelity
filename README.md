@@ -35,6 +35,16 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 
 <h3 align="center">Blogpost</h3>
 <ul>
+    <li><b>CNCF Blog</b> - October 2023
+        <br/> 🇬🇧 <a href="https://www.cncf.io/blog/2023/10/09/welcome-to-the-cloud-native-sustainability-week-2023/" alt="Welcome to the Cloud Native Sustainability Week 2023">Welcome to the Cloud Native Sustainability Week 2023</a>
+    </li>
+    <li><b>CNCF TAG ENV Sustainability</b> - October 2023
+        <br/> 🇬🇧 <a href="https://tag-env-sustainability.cncf.io/blog/2023-welcome-cloud-native-sustainability-week/" alt="Welcome to the Cloud Native Sustainability Week 2023">Welcome to the Cloud Native Sustainability Week 2023</a>
+    </li>
+    <li><b>Mia-Platform Blog</b> - September 2023
+        <br/> 🇬🇧 <a href="https://blog.mia-platform.eu/en/shift-down-to-the-platform" alt="Shift Down to the Platform, not Left to the Dev">Shift Down to the Platform, not Left to the Dev</a>
+        <br/> 🇮🇹 <a href="https://blog.mia-platform.eu/it/shift-down-evoluzione-shift-left" alt="Shift Down: l'evoluzione dello Shift Left che sfrutta le piattaforme">Shift Down: l'evoluzione dello Shift Left che sfrutta le piattaforme</a>
+    </li>
     <li><b>Mia-Platform Blog</b> - July 2023
         <br/> 🇬🇧 <a href="https://blog.mia-platform.eu/en/golden-paths-platform-engineering" alt="Pave Golden Paths with Platform Engineering">Pave Golden Paths with Platform Engineering</a>
         <br/> 🇮🇹 <a href="https://blog.mia-platform.eu/it/golden-path-platform-engineering" alt="Tracciare golden path con il Platform Engineering">Tracciare golden path con il Platform Engineering</a>
@@ -70,6 +80,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 <ul>
     <li><b>Dutch Kubernetes & Cloud-Native Meetup</b> - September 2023 Amsterdam, NL
         <br/>Talk: How to stop Firefighting in DevOps Teams and improve Developer Experience?
+    </li>
+    <li><b>DevOps Time - Podcast </b> - September 2023 Amsterdam, NL
+        <br/>Topic: Esplorando il Platform Engineering
     </li>
     <li><b>Cloud Native Podcast</b> - July 2023 Online
         <br/>Title: Decoding Platform Engineering: Build vs Buy Dilemma
