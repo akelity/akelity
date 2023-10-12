@@ -81,7 +81,7 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
     <li><b>Dutch Kubernetes & Cloud-Native Meetup</b> - September 2023 Amsterdam, NL
         <br/>Talk: How to stop Firefighting in DevOps Teams and improve Developer Experience?
     </li>
-    <li><b>DevOps Time - Podcast </b> - September 2023 Amsterdam, NL
+    <li><b>DevOps Time - Podcast </b> - September 2023 Online
         <br/>Topic: Esplorando il Platform Engineering
     </li>
     <li><b>Cloud Native Podcast</b> - July 2023 Online
