@@ -36,6 +36,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 <h3 align="center">Blogpost</h3>
 <ul>
     <li><b>CNCF Blog</b> - October 2023
+        <br/> 🇬🇧 <a href="https://www.cncf.io/blog/2023/10/18/shift-down-to-the-platform-not-left-to-the-dev/" alt="Shift down to the platform, not left to the dev">Shift down to the platform, not left to the dev</a>
+    </li>
+    <li><b>CNCF Blog</b> - October 2023
         <br/> 🇬🇧 <a href="https://www.cncf.io/blog/2023/10/09/welcome-to-the-cloud-native-sustainability-week-2023/" alt="Welcome to the Cloud Native Sustainability Week 2023">Welcome to the Cloud Native Sustainability Week 2023</a>
     </li>
     <li><b>CNCF TAG ENV Sustainability</b> - October 2023
