@@ -35,6 +35,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 
 <h3 align="center">Blogpost</h3>
 <ul>
+    <li><b>TheNewStack</b> - November 2023
+        <br/> 🇬🇧 <a href="https://thenewstack.io/platform-engineering-reduces-cognitive-load-and-raises-developer-productivity/" alt="Platform Engineering Reduces Cognitive Load and Raises Developer Productivity">Platform Engineering Reduces Cognitive Load and Raises Developer Productivity</a>
+    </li>
     <li><b>CNCF Blog</b> - October 2023
         <br/> 🇬🇧 <a href="https://www.cncf.io/blog/2023/10/18/shift-down-to-the-platform-not-left-to-the-dev/" alt="Shift down to the platform, not left to the dev">Shift down to the platform, not left to the dev</a>
     </li>
@@ -81,6 +84,21 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 
 <h3 align="center">Events</h3>
 <ul>
+    <li><b>eXtreme Programming User Group Bergamo</b> - December 2023 Bergamo, IT
+        <br/>Talk: Guida Galattica per Platform Engineer (e non) - The Galactic Guide for Platform Engineers (and others)
+    </li>
+    <li><b>DevFest Venezia 2023</b> - December 2023 Venice, IT
+        <br/>Talk: Guida Galattica per Platform Engineer (e non) - The Galactic Guide for Platform Engineers (and others)
+    </li>
+    <li><b>DevFest Milano 2023</b> - November 2023 Milan, IT
+        <br/>Talk: Guida Galattica per Platform Engineer (e non) - The Galactic Guide for Platform Engineers (and others)
+    </li>
+    <li><b>DevFest Pescara 2023</b> - November 2023 Pescara, IT
+        <br/>Talk: Guida Galattica per Platform Engineer (e non) - The Galactic Guide for Platform Engineers (and others)
+    </li>
+    <li><b>CloudDay 2023</b> - November 2023 Milan, IT
+        <br/>Talk: Guida Galattica per Platform Engineer (e non) - The Galactic Guide for Platform Engineers (and others)
+    </li>
     <li><b>Dutch Kubernetes & Cloud-Native Meetup</b> - September 2023 Amsterdam, NL
         <br/>Talk: How to stop Firefighting in DevOps Teams and improve Developer Experience?
     </li>
