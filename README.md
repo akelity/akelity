@@ -35,6 +35,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 
 <h3 align="center">Blogpost</h3>
 <ul>
+    <li><b>CNCF TAG ENV Sustainability</b> - January 2024
+        <br/> 🇬🇧 <a href="https://www.cncf.io/blog/2024/01/29/cloud-native-sustainability-week-2023-putting-sustainability-on-the-community-radar/" alt="Cloud Native Sustainability Week 2023: putting sustainability on the community radar">Cloud Native Sustainability Week 2023: putting sustainability on the community radar</a> (co-author)
+    </li>
     <li><b>TheNewStack</b> - November 2023
         <br/> 🇬🇧 <a href="https://thenewstack.io/platform-engineering-reduces-cognitive-load-and-raises-developer-productivity/" alt="Platform Engineering Reduces Cognitive Load and Raises Developer Productivity">Platform Engineering Reduces Cognitive Load and Raises Developer Productivity</a>
     </li>
@@ -45,7 +48,7 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
         <br/> 🇬🇧 <a href="https://www.cncf.io/blog/2023/10/09/welcome-to-the-cloud-native-sustainability-week-2023/" alt="Welcome to the Cloud Native Sustainability Week 2023">Welcome to the Cloud Native Sustainability Week 2023</a>
     </li>
     <li><b>CNCF TAG ENV Sustainability</b> - October 2023
-        <br/> 🇬🇧 <a href="https://tag-env-sustainability.cncf.io/blog/2023-welcome-cloud-native-sustainability-week/" alt="Welcome to the Cloud Native Sustainability Week 2023">Welcome to the Cloud Native Sustainability Week 2023</a>
+        <br/> 🇬🇧 <a href="https://tag-env-sustainability.cncf.io/blog/2023-welcome-cloud-native-sustainability-week/" alt="Welcome to the Cloud Native Sustainability Week 2023">Welcome to the Cloud Native Sustainability Week 2023</a> (co-author)
     </li>
     <li><b>Mia-Platform Blog</b> - September 2023
         <br/> 🇬🇧 <a href="https://blog.mia-platform.eu/en/shift-down-to-the-platform" alt="Shift Down to the Platform, not Left to the Dev">Shift Down to the Platform, not Left to the Dev</a>
@@ -84,6 +87,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 
 <h3 align="center">Events</h3>
 <ul>
+    <li><b>DevFest Mediterranean 2024</b> - January 2024 Palermo, IT
+        <br/>Talk: Trasformare il carico cognitivo in creatività
+    </li>
     <li><b>eXtreme Programming User Group Bergamo</b> - December 2023 Bergamo, IT
         <br/>Talk: Guida Galattica per Platform Engineer (e non) - The Galactic Guide for Platform Engineers (and others)
     </li>
