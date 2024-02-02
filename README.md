@@ -35,6 +35,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a href="htt
 
 <h3 align="center">Blogpost</h3>
 <ul>
+    <li><b>Techspective</b> - February 2024
+        <br/> 🇬🇧 <a href="https://techspective.net/2024/01/31/analog-and-legacy-equipment-the-slow-burner-on-efficiency/" alt="Analog and Legacy Equipment: The Slow Burner on Efficiency">Analog and Legacy Equipment: The Slow Burner on Efficiency</a>
+    </li>
     <li><b>CNCF TAG ENV Sustainability</b> - January 2024
         <br/> 🇬🇧 <a href="https://www.cncf.io/blog/2024/01/29/cloud-native-sustainability-week-2023-putting-sustainability-on-the-community-radar/" alt="Cloud Native Sustainability Week 2023: putting sustainability on the community radar">Cloud Native Sustainability Week 2023: putting sustainability on the community radar</a> (co-author)
     </li>
