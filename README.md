@@ -8,10 +8,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a alt="Mia-
 <br />I am deeply involved in the world of the <a alt="CNCF WebSite" href=" https://www.cncf.io/">Cloud Native Computing Foundation (CNCF)</a>, actively contributing through articles and supporting communities. Additionally, I am one of the organizers of <a href="https://kcd.pizza/" alt="KCD Italy WebSite">KCD Italy</a> and collaborate with initiatives like <a href="https://kubetrain.io/" alt="KubeTrain WebSite">KubeTrain</a> and the <a href="https://tag-env-sustainability.cncf.io/" alt="CNCF TAG Environment Sustainability">CNCF TAG on Environmental Sustainability</a>. I am also proud to be a member of the <a href="https://www.devnetwork.com/" alt="Advisory Board for DevNetwork WebSite">Advisory Board for DevNetwork</a> in the Developer Evangelist/Advocate board.
 <br />
 <br />I participate actively in communities and conferences across Italy and Europe. I support these communities by talking about technology and sharing my enthusiasm for coding and software development.
-<br />
 <br />My journey in community engagement began in 2006, where I supported community leads and organized events. Since 2008, I have been engaged in public speaking, discussing technology and its proper use, always focusing on highlighting the potential and limitations of everything I discuss.
 <br />
-<br />In the event section, you can find some events I have participated in over time. They represent only a part of my involvement; unfortunately, I lack references for many and cannot retrieve them (if you know of any that are not listed, please report them or make a PR on this README).
+<br />In the following section, you can find a selection of events and articles I have participated in and authored over time. These represent just a portion of my overall involvement. Unfortunately, I do not have references for many of these contributions and am unable to retrieve them. If you are aware of any not listed here, please let me know or make a PR on this README.
 <br />
 </p>
 
