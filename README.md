@@ -2,19 +2,17 @@
 
 
 <p>
-In life I do the job I always dreamed of: I am a Developer Advocate <a href="https://github.com/mia-platform" alt="MiaPlatform">@Mia-Platform</a>, based in Milan.
-<br />My goal is to constantly help developers (and those who want to become developers) by sharing with them my passion and my knowledge, in the hope that I can inspire them.
+In life I do the job I always dreamed of: I am a Developer Advocate <a alt="Mia-Platform GitHub" href="https://github.com/mia-platform" alt="MiaPlatform">@Mia-Platform</a>, based in Milan.
+<br />My goal is to constantly help developers, and those aspiring to become developers, by sharing my passion and knowledge, hoping to inspire them.
 <br />
-<br />To do this, I actively participate in communities and conferences around Italy and Europe.
-<br />I support communities talking about technology and trying to convey my passion for code and the world of software development.
+<br />I am deeply involved in the world of the <a alt="CNCF WebSite" href=" https://www.cncf.io/">Cloud Native Computing Foundation (CNCF)</a>, actively contributing through articles and supporting communities. Additionally, I am one of the organizers of <a href="https://kcd.pizza/" alt="KCD Italy WebSite">KCD Italy</a> and collaborate with initiatives like <a href="https://kubetrain.io/" alt="KubeTrain WebSite">KubeTrain</a> and the <a href="https://tag-env-sustainability.cncf.io/" alt="CNCF TAG Environment Sustainability">CNCF TAG on Environmental Sustainability</a>. I am also proud to be a member of the <a href="https://www.devnetwork.com/" alt="Advisory Board for DevNetwork WebSite">Advisory Board for DevNetwork</a> in the Developer Evangelist/Advocate board.
 <br />
-<br />I started actively attending communities in 2006. There, I supported community leads and I also organized some events myself.
+<br />I participate actively in communities and conferences across Italy and Europe. I support these communities by talking about technology and sharing my enthusiasm for coding and software development.
 <br />
-<br />Since 2008 I have also started to do public speaking, telling about technology and the correct way to use it, always trying to emphasize the potential and limits of everything I have told.
+<br />My journey in community engagement began in 2006, where I supported community leads and organized events. Since 2008, I have been engaged in public speaking, discussing technology and its proper use, always focusing on highlighting the potential and limitations of everything I discuss.
 <br />
-<br />In the event section you can find some events that I have participated in over time. They are only a small part: unfortunately, I do not have a reference for many and I cannot recover them (if you know some that are not present, report them or do a PR on this README)
+<br />In the event section, you can find some events I have participated in over time. They represent only a part of my involvement; unfortunately, I lack references for many and cannot retrieve them (if you know of any that are not listed, please report them or make a PR on this README).
 <br />
-
 </p>
 
 <h3 align="center">Find me on</h3>
