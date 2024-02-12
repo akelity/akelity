@@ -90,6 +90,9 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a alt="Mia-
 
 <h3 align="center">Events</h3>
 <ul>
+    <li><b>TECH JOBS FAIR - Remote 2024</b> - February 2024 Online
+        <br/>Talk: Un Viaggio nell'Universo della Developer Experience
+    </li>
     <li><b>DevFest Mediterranean 2024</b> - January 2024 Palermo, IT
         <br/>Talk: Trasformare il carico cognitivo in creatività
     </li>
