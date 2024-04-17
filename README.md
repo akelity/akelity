@@ -32,6 +32,14 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a alt="Mia-
 
 <h3 align="center">Blogpost</h3>
 <ul>
+
+     <li><b>TheNewStack</b> - April 2024
+        <br/> 🇬🇧 <a href="https://thenewstack.io/integrating-ai-to-make-platform-engineering-intelligent/" alt="Integrating AI to Make Platform Engineering Intelligent">Integrating AI to Make Platform Engineering Intelligent</a>
+    </li> 
+    <li><b>TheNewStack</b> - February 2024
+        <br/> 🇬🇧 <a href="https://thenewstack.io/composable-architectures-vs-microservices-which-is-best/" alt="Composable Architectures vs. Microservices: Which Is Best?
+">Composable Architectures vs. Microservices: Which Is Best?</a>
+    </li>  
     <li><b>CNCF Blog</b> - February 2024
         <br/> 🇬🇧 <a href="https://www.cncf.io/blog/2024/02/08/kubetrain-a-sustainable-journey-to-kubecon-cloudnativecon-europe-2024/" alt="KubeTrain: A sustainable journey to KubeCon + CloudNativeCon Europe 2024">KubeTrain: A sustainable journey to KubeCon + CloudNativeCon Europe 2024</a>
     </li>  
