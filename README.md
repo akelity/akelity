@@ -96,6 +96,21 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a alt="Mia-
 
 <h3 align="center">Events</h3>
 <ul>
+    <li><b>MLOps @localhost - Remote 2024</b> - May 2024 Online
+        <br/>Talk: Compose GenAI Apps: May the Force Be with Your Data and Models
+    </li>
+    <li><b>Cloud Native London - Remote 2024</b> - April 2024 Online
+        <br/>Talk: How to turn Cognitive Load into creativity
+    </li>
+    <li><b>London Platform User Group</b> - March 2024 London, UK
+        <br/>Panel: Highlights from KubeCon Europe 2024
+    </li>
+    <li><b>KubeCon + CloudNativeCon Europe - Booth App Tag Delivery 2024</b> - March 2024 Paris, France
+        <br/>Talk: Empowering and Accelerating Cloud-Native Development with Buildpacks.io
+    </li>
+    <li><b>DevMy - Remote 2024</b> - March 2024 Online
+        <br/>Talk: Platform Engineering: DevX nel paese delle meraviglie
+    </li>
     <li><b>TECH JOBS FAIR - Remote 2024</b> - February 2024 Online
         <br/>Talk: Un Viaggio nell'Universo della Developer Experience
     </li>
