@@ -96,6 +96,51 @@ In life I do the job I always dreamed of: I am a Developer Advocate <a alt="Mia-
 
 <h3 align="center">Events</h3>
 <ul>
+    <li><b>KCD New York </b> - June 2025 New York, USA
+        <br/>Talk: Creating a Smooth Developer Experience: From Complexity to Simplicity
+    </li>
+    <li><b>DXDay </b> - March 2025 Bologna, Italy
+        <br/>Talk: Creating a Smooth Developer Experience: From Complexity to Simplicity
+    </li>
+    <li><b>DevDojo Online Community </b> - March 2025 Online
+        <br/>Panel: Developer Experience in the Real World
+    </li>
+    <li><b>State of Open Con </b> - Febrary 2025 London, UK
+        <br/>Panel: Building AI Platform together, for everyone 
+    </li>
+    <li><b>Dilaxia Explora Meetup </b> - November 2024 Bologna, Italy
+        <br/>Talk: Migliorare la Developer Experience con Platform Engineering e RAG
+    </li>
+    <li><b>Commit Meetup </b> - November 2024 Florence, Italy
+        <br/>Talk: Migliorare la Developer Experience con Platform Engineering e RAG
+    </li>
+    <li><b>DevFest Milano </b> - November 2024 Milan, Italy
+        <br/>Talk: Migliorare la Developer Experience in un mondo Cloud Native 
+    </li>
+    <li><b>Community Lead Milano Meetup </b> - November 2024 Milan, Italy
+        <br/>Organizer: a meetup for Community Lead in Milan
+    </li>
+    <li><b>Cloud Native Day Bergen </b> - October 2024 Bergen, Norway
+        <br/>Talk: Enhanced Developer Experience in a Cloud Native world
+    </li>
+    <li><b>Cloud Native Meetup </b> - October 2024 London, UK
+        <br/>Talk: How to build a Conversational DevX interface using RAG
+    </li>
+    <li><b>ContainerDay </b> - October 2024 Bologna, Italy
+        <br/>Talk: Navigare il CNCF Landscape: un pezzo alla volta 
+    </li>
+    <li><b>BetterSoftware </b> - October 2024 Bologna, Italy
+        <br/>Talk: Navigare il CNCF Landscape: un pezzo alla volta **Sustainability in Cloug Native: strategy and tools for a green future
+    </li>
+    <li><b>KCD Porto </b> - September 2024 Porto, Portugal
+        <br/>Talk: Sustainability in Cloug Native: strategy and tools for a green future
+    </li>
+    <li><b>Happy B-day Kubernetes </b> - June 2024 Online
+        <br/>Presenter: A online meetup with 12 speaker from CNCF world
+    </li>
+    <li><b>Platmosphere </b> - May 2024 Milan
+        <br/>Talk: Mia-Platform Exper Community 
+    </li>
     <li><b>MLOps @localhost - Remote 2024</b> - May 2024 Online
         <br/>Talk: Compose GenAI Apps: May the Force Be with Your Data and Models
     </li>
