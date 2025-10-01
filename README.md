@@ -2,7 +2,7 @@
 
 
 <p>
-In life I do the job I always dreamed of: I am a Developer Advocate <a alt="Mia-Platform GitHub" href="https://github.com/mia-platform" alt="MiaPlatform">@Mia-Platform</a>, based in Milan.
+In life I do the job I always dreamed of: I am a Developer Advocate based in Milan.
 <br />My goal is to constantly help developers, and those aspiring to become developers, by sharing my passion and knowledge, hoping to inspire them.
 <br />
 <br />I am deeply involved in the world of the <a alt="CNCF WebSite" href=" https://www.cncf.io/">Cloud Native Computing Foundation (CNCF)</a>, actively contributing through articles and supporting communities. Additionally, I am one of the organizers of <a href="https://kcd.pizza/" alt="KCD Italy WebSite">KCD Italy</a> and collaborate with initiatives like <a href="https://kubetrain.io/" alt="KubeTrain WebSite">KubeTrain</a> and the <a href="https://tag-env-sustainability.cncf.io/" alt="CNCF TAG Environment Sustainability">CNCF TAG on Environmental Sustainability</a>. I am also proud to be a member of the <a href="https://www.devnetwork.com/" alt="Advisory Board for DevNetwork WebSite">Advisory Board for DevNetwork</a> in the Developer Evangelist/Advocate board.
